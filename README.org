@@ -1,0 +1,7 @@
+* Blick
+  DIY head mounted display (HMD) based on Alain Mauer's project
+  [[https://hackaday.io/project/12211-arduino-glasses-a-hmd-for-multimeter]["Arduino Glasses a HMD for Multimeter"]].
+
+** Components
+   - ESP-32S
+   - WeMos OLED Shield v1.1.0
